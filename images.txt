@@ -7,4 +7,5 @@ mysql:8
 mongo:7
 redis:7
 nginx:alpine
+minio/minio
 rabbitmq:3.12-management
