@@ -10,4 +10,5 @@
 # minio/minio
 # rabbitmq:3.12-management
 # deepface/cpu
-serengil/deepface
+# serengil/deepface
+mtphotos/mt-photos-deepface:latest
