@@ -9,5 +9,5 @@
 # nginx:alpine
 # minio/minio
 # rabbitmq:3.12-management
-deepface/cpu
+# deepface/cpu
 serengil/deepface
