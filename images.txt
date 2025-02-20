@@ -14,3 +14,4 @@
 # mtphotos/mt-photos-deepface:latest
 registry
 docker.io/joxit/docker-registry-ui:main
+python:3.8.10-buster
