@@ -12,10 +12,10 @@
 # deepface/cpu
 # serengil/deepface
 # mtphotos/mt-photos-deepface:latest
-registry
-docker.io/joxit/docker-registry-ui:main
-python:3.8.10-slim
-python:3.8.10-buster
-docker.elastic.co/elasticsearch/elasticsearch:8.17.2
-sickcodes/docker-osx:latest
+# registry
+# docker.io/joxit/docker-registry-ui:main
+# python:3.8.10-slim
+# python:3.8.10-buster
+# docker.elastic.co/elasticsearch/elasticsearch:8.17.2
+# sickcodes/docker-osx:latest
 sickcodes/docker-osx:sonoma
