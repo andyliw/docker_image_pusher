@@ -18,3 +18,4 @@
 # python:3.8.10-buster
 # docker.elastic.co/elasticsearch/elasticsearch:8.17.2
 mongo:7.0.43
+mysql:8.4.10
