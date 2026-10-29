@@ -19,3 +19,4 @@
 # docker.elastic.co/elasticsearch/elasticsearch:8.17.2
 mongo:7.0.43
 mysql:8.4.10
+rabbitmq:3.13.7-management
